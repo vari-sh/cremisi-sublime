@@ -14,7 +14,7 @@ theme: [vari-sh.github.io/cremisi](https://vari-sh.github.io/cremisi/).
 ## Install
 
 With [Package Control](https://packagecontrol.io/): run **Package Control: Install Package**
-from the command palette and pick *Cremisi*.
+from the command palette and pick *Cremisi Color Scheme*.
 
 If you copied the `.sublime-color-scheme` files into `Packages/User` before, remove them:
 Sublime Text merges schemes that share a name, and the old copies would override the package.
